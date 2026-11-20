@@ -1,0 +1,31 @@
+id,name,phone,email,company,category,city,address,notes,status,created_at,updated_at
+E14E773F,Aarav Sharma,9000000001,aarav.sharma@example.com,Bright Solutions,Work,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+4E8C6547,Aditi Rao,9000000002,aditi.rao@example.com,Green Valley College,College,Medchal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+BF4AD948,Arjun Reddy,9000000003,arjun.reddy@example.com,Personal,Friend,Secunderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+EB4B7DE8,Ananya Kumar,9000000004,ananya.kumar@example.com,Sunrise Technologies,Work,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+CD14818E,Bhavya Patel,9000000005,bhavya.patel@example.com,Family,Family,Kompally,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+7034C4D4,Charan Teja,9000000006,charan.teja@example.com,North Star College,College,Medchal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+BE6F3EC3,Diya Singh,9000000007,diya.singh@example.com,Personal,Friend,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+237DD4CD,Devika Nair,9000000008,devika.nair@example.com,Blue Sky Ltd,Work,Miyapur,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+1E0729AD,Eshan Verma,9000000009,eshan.verma@example.com,Family,Family,Alwal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+E85DA790,Farhan Ali,9000000010,farhan.ali@example.com,City Engineering College,College,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+230DE778,Gauri Mehta,9000000011,gauri.mehta@example.com,Personal,Personal,Medchal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+5D9DF4B2,Harish Kumar,9000000012,harish.kumar@example.com,Vertex Systems,Work,Secunderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+C4CDF6F1,Ishita Das,9000000013,ishita.das@example.com,Family,Family,Kompally,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+6B115E95,Jai Prakash,9000000014,jai.prakash@example.com,Metro College,College,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+584A7DBB,Kavya Rani,9000000015,kavya.rani@example.com,Personal,Friend,Alwal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+856BB738,Kiran Kumar,9000000016,kiran.kumar@example.com,Nova Technologies,Work,Miyapur,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+7AE1D577,Lakshmi Devi,9000000017,lakshmi.devi@example.com,Family,Family,Medchal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+73702F61,Manoj Kumar,9000000018,manoj.kumar@example.com,City Degree College,College,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+F094F2A6,Meera Shah,9000000019,meera.shah@example.com,Personal,Personal,Secunderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+AB890859,Nikhil Rao,9000000020,nikhil.rao@example.com,Apex Solutions,Work,Kompally,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+19B3692F,Pooja Reddy,9000000021,pooja.reddy@example.com,Family,Family,Alwal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+6E77E6CB,Pranav Joshi,9000000022,pranav.joshi@example.com,Westside College,College,Medchal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+D70680D1,Rahul Varma,9000000023,rahul.varma@example.com,Personal,Friend,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+0A4AB5C3,Sahana Iyer,9000000024,sahana.iyer@example.com,Orbit Technologies,Work,Miyapur,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+01B722C9,Sai Krishna,9000000025,sai.krishna@example.com,Family,Family,Secunderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+9DA1143A,Sneha Gupta,9000000026,sneha.gupta@example.com,Central College,College,Kompally,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+E3737687,Tanvi Rao,9000000027,tanvi.rao@example.com,Personal,Personal,Medchal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+19E2071C,Uday Kumar,9000000028,uday.kumar@example.com,Pioneer Systems,Work,Hyderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+A48F9606,Varun Das,9000000029,varun.das@example.com,Family,Family,Alwal,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
+07ECF0C3,Zoya Khan,9000000030,zoya.khan@example.com,Personal,Friend,Secunderabad,,Sample demo contact,Active,2026-11-20T14:25:19,2026-11-20T14:25:19
